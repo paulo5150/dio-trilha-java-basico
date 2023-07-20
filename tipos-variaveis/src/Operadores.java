@@ -1,7 +1,7 @@
 public class Operadores {
     public static void main(String[] args){
         String nomeUm = "Paulo"; 
-        String nomeDois = new String("Paulo");// Objeto
+        String nomeDois = new String("Paulo");// Criação do Objeto "nomeDois"
         System.out.println("Nome 1 é igual a nome 2? " + (nomeUm.equals(nomeDois)));//equals(=), método para relacionar objetos
 
         int numero1 = 1, numero2 = 2;
