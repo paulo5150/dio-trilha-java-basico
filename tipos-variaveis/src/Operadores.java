@@ -21,7 +21,18 @@ public class Operadores {
 
         simNao = numero1 < numero2;
         System.out.println("Número 1 é menor que o número 2? " + simNao);
-        
+
+        //Teste booleano
+
+        boolean condicao1=true, condicao2=true;
+
+        if(condicao1 && (7>4)){
+            System.out.println("as duas condições são verdadeiras");
+        }
+        if(condicao1 || condicao2){
+            System.out.println("uma das condições é verdadeiras");
+        }
+        System.out.println("fim");
     }
 }
 
