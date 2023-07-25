@@ -2,6 +2,6 @@
 
 Este desafio de código tem por objetivo simular a entrada de dados para uma suposta conta bancária com uma mensagem de retorno incluindo os dados informados.
 
-### Curso JAVA Develop
+### Curso JAVA Developer (Digital Innovation One)
 
 
